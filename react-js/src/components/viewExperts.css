@@ -1,0 +1,23 @@
+.body{
+    background-color: rgba(255, 255, 255, 0.747);
+    margin: 1%;
+    padding: 1%;
+    
+}
+
+.addExpertButton{
+    padding: 10px;
+    width: 15%;
+    font-size: large;
+    background-color: rgb(26, 226, 26);
+    color: white;
+    border: 0px;
+    border-radius: 8px;
+    margin-left: 84%;
+}
+
+td button{
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
